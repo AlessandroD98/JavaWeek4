@@ -1,0 +1,45 @@
+package Articolo;
+
+import javax.persistence.DiscriminatorColumn;
+import javax.persistence.DiscriminatorType;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.Inheritance;
+import javax.persistence.InheritanceType;
+import javax.persistence.Table;
+
+import lombok.Getter;
+import lombok.Setter;
+
+@Getter
+@Setter
+@Entity
+@Table(name = "articoli_menu")
+@Inheritance(strategy = InheritanceType.JOINED)
+@DiscriminatorColumn(name = "Articolo", discriminatorType = DiscriminatorType.STRING)
+public abstract class ArticoloMenu {
+
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private int id;
+	protected double price;
+	private String name;
+	
+	public static void toString(ArticoloMenu a) {
+		if(a instanceof Pizza) {
+			Pizza p = (Pizza) a;
+			System.out.println(p.getName() + " Calorie " + p.getCalories() + " Price " + p.getPrice() + "€");
+		} else if (a instanceof Drinks) {
+			Drinks d = (Drinks) a;
+			System.out.println(d.getName() + " Calorie " + d.getCalories() + " Price " + d.getPrice()+ "€");
+		} else if (a instanceof Franchise) {
+			Franchise f = (Franchise) a;
+			System.out.println(f.getName() + " Calorie " + f.getPrice()+ "€");
+		}else {
+			System.out.println("Articolo non supportato");
+		}
+	}
+	
+}

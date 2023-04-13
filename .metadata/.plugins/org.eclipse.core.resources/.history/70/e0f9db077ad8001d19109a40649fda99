@@ -1,0 +1,60 @@
+package Main;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+import Articolo.ArticoloMenu;
+import Articolo.Pizza;
+
+@SpringBootApplication
+public class W4D1Application {
+	
+	public static Scanner s = new Scanner(System.in);
+
+	public static void main(String[] args) {
+		SpringApplication.run(W4D1Application.class, args);
+		
+		gestioneMenu();
+	}
+
+	
+	public static void gestioneMenu() {
+		
+		List<ArticoloMenu> ordine = new ArrayList<>();
+		
+		while(true) {
+			System.out.println("\n / ---- Benvenuto da Godfather's Pizzas ---- / \n"
+					+ "\n Che cosa vuoi ordinare? \n "
+					+ "\n 1 Pizze"
+					+ "\n 2 Bibite"
+					+ "\n 3 Altro"
+					+ "\n 4 Chiedi il conto");
+			int scelta = s.nextInt();
+			s.nextLine();
+			switch(scelta) {
+			case 1:
+				Pizza.pizzeOption();
+				break;
+			case 2:
+				break;
+			case 3:
+				break;
+			case 4:
+				if(ordine.size() == 0) {
+					System.out.println("Prima ordina qualcosa!");
+				} else {}
+				break;
+				default: System.out.println("Utilizza un valore valido");
+			}
+		}
+	}
+	
+	public static void addToOrder(List<ArticoloMenu> list, ArticoloMenu a) {
+		list.add(a);
+	}
+
+}

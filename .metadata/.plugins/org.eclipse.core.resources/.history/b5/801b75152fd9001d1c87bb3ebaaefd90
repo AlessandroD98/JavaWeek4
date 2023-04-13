@@ -1,0 +1,112 @@
+package Main.Ordine;
+
+import java.time.LocalDate;
+import java.util.List;
+import java.util.Random;
+
+import javax.persistence.Entity;
+import javax.persistence.EnumType;
+import javax.persistence.Enumerated;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+import Articolo.ArticoloMenu;
+import Enum.StatoOrdine;
+import Main.W4D1Application;
+import Main.tavolo.Tavolo;
+
+@Entity
+@Table(name = "ordini")
+public class Ordine {
+
+	@Id
+	private Long numeroOrdine;
+	
+	private List<ArticoloMenu> ordinazione;
+	
+	@Enumerated(EnumType.STRING)
+	private StatoOrdine stato;
+	private Integer numeroCoperti;
+	private LocalDate oraAcquisizione;
+	private Tavolo tavolo;
+	
+	public Ordine(Long numeroOrdine, List<ArticoloMenu> ordinazione, StatoOrdine stato, Integer numeroCoperti,
+			LocalDate oraAcquisizione, Tavolo tavolo) {
+		super();
+		this.numeroOrdine = numeroOrdine;
+		this.ordinazione = ordinazione;
+		this.stato = stato;
+		this.numeroCoperti = numeroCoperti;
+		this.oraAcquisizione = oraAcquisizione;
+		this.setTavolo(tavolo);
+	}
+
+	public Ordine() {
+		super();
+	}
+
+	public Long getNumeroOrdine() {
+		return numeroOrdine;
+	}
+
+	public void setNumeroOrdine(Long numeroOrdine) {
+		
+		Long num = System.currentTimeMillis();
+		Random rnum = new Random(num);
+		Long isbn = Math.abs(rnum.nextLong()) % 9000000000000L + 1000000000000L;
+		isbn *= 10L;
+		this.numeroOrdine = isbn;
+	}
+
+	public List<ArticoloMenu> getOrdinazione() {
+		return ordinazione;
+	}
+
+	public void setOrdinazione(List<ArticoloMenu> ordinazione) {
+		this.ordinazione = ordinazione;
+	}
+
+	public StatoOrdine getStato() {
+		return stato;
+	}
+
+	public void setStato(StatoOrdine stato) {
+		this.stato = stato;
+	}
+
+	public Integer getNumeroCoperti() {
+		return numeroCoperti;
+	}
+
+	public void setNumeroCoperti() {
+		System.out.println("Inserisci il numero di coperti");
+		String numcoperti = W4D1Application.s.nextLine();
+		
+		try {
+			int ncoperti = Integer.parseInt(numcoperti);
+			if(ncoperti <= this.tavolo.getNumeroMaxCoperti()) {
+				this.numeroCoperti = ncoperti;
+			} else {
+				System.out.println("Il numero di coperti non può essere maggiore dei posti disponibili!");
+			}		
+		} catch(Exception e) {System.out.println("Error " + e);}	
+	}
+
+	public LocalDate getOraAcquisizione() {
+		return oraAcquisizione;
+	}
+
+	public void setOraAcquisizione(LocalDate oraAcquisizione) {
+		this.oraAcquisizione = oraAcquisizione;
+	}
+
+	public Tavolo getTavolo() {
+		return tavolo;
+	}
+
+	public void setTavolo(Tavolo tavolo) {
+		this.tavolo = tavolo;
+	}
+	
+	
+}

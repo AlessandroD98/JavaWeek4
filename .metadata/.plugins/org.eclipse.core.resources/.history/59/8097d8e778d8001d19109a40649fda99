@@ -1,0 +1,27 @@
+package Articolo;
+
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+import Configuration.Configuration;
+
+public class Drinks extends ArticoloMenu {
+
+	private Integer calories;
+
+	public Integer getCalories() {
+		return calories;
+	}
+
+	public void setCalories(Integer calories) {
+		this.calories = calories;
+	}
+	
+	public static Drinks createPiazza() {
+		AnnotationConfigApplicationContext appContext = new AnnotationConfigApplicationContext(Configuration.class);
+		
+		Drinks d = (Drinks) appContext.getBean("drinks");
+		
+		appContext.close();
+		return d;
+	}
+}

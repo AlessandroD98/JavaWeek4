@@ -1,0 +1,9 @@
+package Main.tavolo;
+
+public class Tavolo {
+
+	private Long numeroTavolo;
+	private int numeroMaxCoperti;
+	private Boolean stato;
+	
+}

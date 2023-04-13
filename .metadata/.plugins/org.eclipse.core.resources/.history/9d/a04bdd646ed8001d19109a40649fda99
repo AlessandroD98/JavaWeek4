@@ -1,0 +1,11 @@
+package Decorator;
+
+import BaseConsum.Consumation;
+
+public abstract class ExtraAddition extends Consumation {
+
+	protected Consumation consumation;
+	
+	@Override
+	public abstract String getProductName();
+}

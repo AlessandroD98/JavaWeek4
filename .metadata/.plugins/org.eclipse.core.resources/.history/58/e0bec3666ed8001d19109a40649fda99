@@ -1,0 +1,18 @@
+package BaseConsum;
+
+
+
+
+public abstract class Consumation {
+
+	 String productName = "";
+	 int calories;
+	
+	 public String getProductName() {
+		 return productName;
+		 }
+	
+	public abstract double getPrice();
+	
+	public abstract double getCalories();
+}

@@ -1,0 +1,72 @@
+package Main.tavolo;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+import Configuration.Configuration;
+import lombok.AllArgsConstructor;
+import lombok.NoArgsConstructor;
+
+@AllArgsConstructor
+@NoArgsConstructor
+@Entity
+@Table(name = "tavoli")
+public class Tavolo {
+
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private Long numeroTavolo;
+	private int numeroMaxCoperti;
+	private Boolean stato;
+	
+	
+	public int getNumeroMaxCoperti() {
+		return numeroMaxCoperti;
+	}
+	public void setNumeroMaxCoperti(int numeroMaxCoperti) {
+		this.numeroMaxCoperti = numeroMaxCoperti;
+	}
+	public Boolean getStato() {
+		return stato;
+	}
+	public void setStato(Boolean stato) {
+		this.stato = stato;
+	}
+	public Long getNumeroTavolo() {
+		return numeroTavolo;
+	}
+	
+	public static Tavolo generaTavolo() {
+		
+AnnotationConfigApplicationContext appContext = new AnnotationConfigApplicationContext(Configuration.class);
+		
+Tavolo t = (Tavolo) appContext.getBean("tavolo");
+		
+		appContext.close();
+		return t;
+		
+	}
+	
+	public static void generaTavoli() {
+	
+		Tavolo t =generaTavolo();
+		Tavolo t1 = generaTavolo();
+		Tavolo t2 = generaTavolo();
+		Tavolo t3 = generaTavolo();
+		Tavolo t4 = generaTavolo();
+
+	}
+	
+	private static void setTavoli(Tavolo t) {
+		t.setStato(true);
+		t.setNumeroMaxCoperti();
+	}
+}

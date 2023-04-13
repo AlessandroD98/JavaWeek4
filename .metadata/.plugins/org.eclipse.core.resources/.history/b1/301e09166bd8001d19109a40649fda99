@@ -1,0 +1,13 @@
+package MenuComponents;
+
+import BaseConsum.Consumation;
+
+public class PizzaMargherita extends Consumation {
+
+	@Override
+	public double getPrice() {
+		// TODO Auto-generated method stub
+		return 4.99;
+	}
+
+}

@@ -1,0 +1,21 @@
+package MenuComponents;
+
+import BaseConsum.Consumation;
+
+public class PizzaMargherita extends Consumation {
+	
+public PizzaMargherita () {
+	productname = "PizzaMargherita";
+}
+	
+	@Override
+	public double getPrice() {
+		return 4.99;
+	}
+
+	@Override
+	public double getCalories() {
+		return 0;
+	}
+
+}

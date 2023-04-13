@@ -1,0 +1,9 @@
+package Articolo;
+
+public class Franchise extends ArticoloMenu {
+	
+	public static void setName() {}
+	
+	public static void setprice() {}
+	
+}

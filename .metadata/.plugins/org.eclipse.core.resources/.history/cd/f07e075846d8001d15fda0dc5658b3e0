@@ -1,0 +1,8 @@
+package com.spring_intro_config.configuration;
+
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class ConfigurationTest {
+
+}

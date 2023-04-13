@@ -1,0 +1,12 @@
+package Articolo;
+
+public class Pizza extends ArticoloMenu {
+
+	private Integer calories;
+	
+	public Pizza() {
+		price = 4.99;
+		calories = 1104;
+	}
+	
+}

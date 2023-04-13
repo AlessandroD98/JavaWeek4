@@ -1,0 +1,11 @@
+package Articolo;
+
+import Enum.FranchiseType;
+
+public class Franchise extends ArticoloMenu {
+	
+	public static void setName(Franchise f) {}
+	
+	public static void setprice() {}
+	
+}

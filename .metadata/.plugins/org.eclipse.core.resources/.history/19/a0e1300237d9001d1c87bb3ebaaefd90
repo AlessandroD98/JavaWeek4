@@ -1,0 +1,96 @@
+package Main;
+
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+import Articolo.ArticoloMenu;
+import Articolo.Drinks;
+import Articolo.Franchise;
+import Articolo.Pizza;
+import Main.tavolo.Tavolo;
+
+@SpringBootApplication
+public class W4D1Application {
+	
+	public static Scanner s = new Scanner(System.in);
+
+	public static void main(String[] args) {
+		SpringApplication.run(W4D1Application.class, args);
+		
+	
+		List<ArticoloMenu> ordine = new ArrayList<>();
+		gestioneMenu(ordine);
+	}
+
+	
+	public static void gestioneMenu(List<ArticoloMenu> arr) {
+		
+		Tavolo.generaTavoli();
+		while(true) {
+			System.out.println("\n / ---- Benvenuto da Godfather's Pizzas ---- / \n"
+					+ "\n Che cosa vuoi fare? \n "
+					+ "\n 1 Ordina"
+					+ "\n 2 Gestione Tavoli"
+					+ "\n 3 Gestione Ordini"
+					+ "\n 4 Chiedi il conto");
+			int scelta = s.nextInt();
+			s.nextLine();
+			switch(scelta) {
+			case 1:
+				gestioneOrdinazione(arr);
+				break;
+			case 2:
+				
+				break;
+			case 3:
+				
+				break;
+			case 4:
+				if(arr.size() == 0) {
+					System.out.println("Prima ordina qualcosa!");
+				} else {
+					totOrdine(arr);
+				}
+				break;
+				default: System.out.println("Utilizza un valore valido");
+			}
+		}
+	}
+
+	public static void gestioneOrdinazione(List<ArticoloMenu> arr) {
+		System.out.println(">> eleziona un tavolo");
+		Boolean exit = false;
+		while(!exit) {
+		System.out.println("\n Che cosa vuoi ordinare? | 0 per uscire \n "
+				+ "\n 1 Pizza"
+				+ "\n 2 Drinks"
+				+ "\n 3 Franchise");
+		int scelta = s.nextInt();
+		s.nextLine();
+		switch(scelta) {
+		case 0:
+			exit = true;
+			break;
+		case 1:
+			Pizza.pizzeOption(arr);
+			break;
+		case 2:
+			Drinks.selectDrink(arr);
+			break;
+		case 3:
+			Franchise.selectFranchise(arr);
+			break;
+			default: System.out.println("Utilizza un valore valido");
+			}
+		}
+	}
+	static public void totOrdine(List<ArticoloMenu> arr) {
+		arr.forEach(e -> ArticoloMenu.toString(e));
+	}
+	
+}

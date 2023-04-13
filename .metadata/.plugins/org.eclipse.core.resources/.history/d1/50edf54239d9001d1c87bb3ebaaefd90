@@ -1,0 +1,18 @@
+package Main.Ordine;
+
+import javax.persistence.EntityManager;
+
+import JpaUtil.JpaUtil;
+import Main.tavolo.Tavolo;
+
+public class OrdineDAO {
+
+	static EntityManager em = JpaUtil.getEntityManagerFactory().createEntityManager();
+	
+	  public static void saveOrdine(Ordine o) {
+			em.getTransaction().begin();
+			em.persist(o);
+			em.getTransaction().commit();
+		    }
+	
+}

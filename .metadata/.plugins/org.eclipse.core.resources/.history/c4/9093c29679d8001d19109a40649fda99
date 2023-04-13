@@ -1,0 +1,43 @@
+package Articolo;
+
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+import Configuration.Configuration;
+import Main.W4D1Application;
+
+public class Drinks extends ArticoloMenu {
+
+	private Integer calories;
+
+	public Integer getCalories() {
+		return calories;
+	}
+
+	public void setCalories(Integer calories) {
+		this.calories = calories;
+	}
+	
+	public static void selectDrink() {
+		Boolean exit = false;
+		while(!exit) {
+			System.out.println(">> Ordina una bevanda | 0 per uscire \n"
+					+ "\n 1 Lemonade (0,33l) | 128 Calories | 1.29€"
+					+ "\n 2 Water (0.5l) | 0 Calories | 1.29€"
+					+ "\n 3 Wine (0.75l, 13%) | 607 Calories | 7.49€");
+			int scelta =  W4D1Application.s.nextInt();
+			W4D1Application.s.nextLine();
+			switch(scelta) {
+			case 1:
+				break;
+			}
+		}
+	}
+	public static Drinks createPiazza() {
+		AnnotationConfigApplicationContext appContext = new AnnotationConfigApplicationContext(Configuration.class);
+		
+		Drinks d = (Drinks) appContext.getBean("drinks");
+		
+		appContext.close();
+		return d;
+	}
+}

@@ -1,0 +1,38 @@
+package com.spring_intro_config;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+import com.spring_intro_config.configuration.ConfigurationTest;
+import com.spring_intro_config.configuration.Test;
+
+@SpringBootApplication
+public class Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(Application.class, args);
+		
+		//Configurazione 1
+		//Configurazione dei bean tramite una class Configuraztion
+		configWith_Beans1( );
+		//Configurazione 2
+		
+		//Configurazione 3
+		
+	}
+
+	public static void configWith_Beans1( ) {
+		ApplicationContext appContext = new AnnotationConfigApplicationContext(ConfigurationTest.class);
+		
+		//Recupero Bean
+		Test t1 = (Test) appContext.getBean("test");
+		System.out.println(t1.saluta());
+		
+		//Recupero Bean con parametri
+				Test t2 = (Test) appContext.getBean("paramtest");
+				System.out.println(t2.saluta());
+	}
+	
+}

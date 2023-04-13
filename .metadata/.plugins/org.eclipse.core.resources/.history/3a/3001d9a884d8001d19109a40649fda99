@@ -1,0 +1,18 @@
+package Articolo;
+
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+import Configuration.Configuration;
+
+public class Topping extends ArticoloMenu{
+
+	
+	public static Topping createTopping() {
+		AnnotationConfigApplicationContext appContext = new AnnotationConfigApplicationContext(Configuration.class);
+		
+		Topping t = (Topping) appContext.getBean("topping");
+		
+		appContext.close();
+		return t;
+	}
+}

@@ -1,0 +1,23 @@
+package Articolo;
+
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+import Configuration.Configuration;
+import Enum.FranchiseType;
+
+public class Franchise extends ArticoloMenu {
+	
+	public static void setName() {}
+	
+	public static void setprice() {}
+	
+	
+	public static Pizza createFranchise() {
+		AnnotationConfigApplicationContext appContext = new AnnotationConfigApplicationContext(Configuration.class);
+		
+		Pizza p = (Pizza) appContext.getBean("pizza");
+		
+		appContext.close();
+		return p;
+	}
+}

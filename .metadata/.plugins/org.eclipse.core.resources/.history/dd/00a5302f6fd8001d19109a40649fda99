@@ -1,0 +1,12 @@
+package Articolo;
+
+import lombok.Getter;
+
+@Getter
+@Setter
+public abstract class ArticoloMenu {
+
+	private double price;
+	private String name;
+	
+}

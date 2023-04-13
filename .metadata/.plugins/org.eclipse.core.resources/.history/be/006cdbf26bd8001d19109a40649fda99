@@ -1,0 +1,11 @@
+package BaseConsum;
+
+import lombok.Getter;
+
+@Getter
+public abstract class Consumation {
+
+	String productName = "";
+	
+	public abstract double getPrice();
+}

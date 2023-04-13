@@ -1,0 +1,9 @@
+package Decorator;
+
+import BaseConsum.Consumation;
+
+public abstract class ExtraAddition extends Consumation {
+
+
+
+}
