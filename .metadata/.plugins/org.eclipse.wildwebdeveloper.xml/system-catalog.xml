@@ -36,4 +36,5 @@
 <uri name="http://www.eclipse.org/eclipselink/xsds/eclipselink_sessions_1.2.xsd" uri="file:///C:/Users/Alessandro/eclipse/java-2022-122/eclipse/configuration/org.eclipse.osgi/533/0/.cp/schemas/eclipselink_sessions_1.2.xsd"/>
 <uri name="http://www.eclipse.org/eclipselink/xsds/eclipselink_sessions_2.0.xsd" uri="file:///C:/Users/Alessandro/eclipse/java-2022-122/eclipse/configuration/org.eclipse.osgi/533/0/.cp/schemas/eclipselink_sessions_2.0.xsd"/>
 <uri name="http://www.eclipse.org/eclipselink/xsds/eclipselink_sessions_2.1.xsd" uri="file:///C:/Users/Alessandro/eclipse/java-2022-122/eclipse/configuration/org.eclipse.osgi/573/0/.cp/org/eclipse/persistence/eclipselink_sessions_2.1.xsd"/>
+<public publicId="-//LOG4J//DTD LOG4J//EN" uri="file:///C:/Users/Alessandro/eclipse/java-2022-122/eclipse/configuration/org.eclipse.osgi/645/0/.cp/dtd/log4j-1.2.dtd"/>
 </catalog>
