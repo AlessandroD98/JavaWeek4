@@ -2159,3 +2159,938 @@
 2023-04-14 19:31:31,735 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2023-04-14 19:31:31,738 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2023-04-14 19:31:31,740 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-14 20:26:19,006 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-14 20:26:19,009 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-14 20:26:19,011 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-14 20:26:36,253 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-14 20:26:36,256 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-14 20:26:36,258 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-14 20:26:51,085 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-14 20:26:51,088 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-14 20:26:51,090 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-14 20:27:07,260 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-14 20:27:07,263 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-14 20:27:07,265 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-14 20:30:14,305 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-14 20:30:14,308 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-14 20:30:14,320 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-14 20:30:40,387 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-14 20:30:40,389 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-14 20:30:40,391 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-14 20:30:45,595 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-14 20:30:45,597 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-14 20:30:45,599 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-14 20:31:11,416 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-14 20:31:11,419 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-14 20:31:11,421 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-14 20:31:29,849 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-14 20:31:29,852 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-14 20:31:29,854 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-14 20:31:33,145 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-14 20:31:33,147 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-14 20:31:33,149 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-14 20:31:52,045 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-14 20:31:52,048 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-14 20:31:52,050 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-14 20:32:09,285 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-14 20:32:09,288 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-14 20:32:09,289 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-14 20:32:34,944 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-14 20:32:34,947 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-14 20:32:34,948 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-14 20:33:13,144 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-14 20:33:13,146 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-14 20:33:13,148 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-14 20:33:40,846 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-14 20:33:40,849 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-14 20:33:40,850 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-14 20:33:49,811 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-14 20:33:49,814 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-14 20:33:49,816 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-14 20:34:00,813 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-14 20:34:00,815 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-14 20:34:00,817 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-14 20:34:08,476 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-14 20:34:08,479 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-14 20:34:08,480 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-14 20:35:22,007 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-14 20:35:22,010 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-14 20:35:22,012 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-14 20:35:31,089 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-14 20:35:31,091 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-14 20:35:31,092 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-14 20:36:56,906 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-14 20:36:56,909 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-14 20:36:56,911 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 16:32:04,913 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-04-15 16:58:37,997 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 16:58:38,008 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 16:58:38,010 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 16:59:09,715 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 16:59:09,718 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 16:59:09,720 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 16:59:23,085 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 16:59:23,088 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 16:59:23,090 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 16:59:43,394 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 16:59:43,397 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 16:59:43,399 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:01:04,862 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:01:04,865 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:01:04,867 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:01:08,700 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:01:08,703 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:01:08,704 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:01:26,825 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:01:26,828 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:01:26,830 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:02:21,526 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:02:21,529 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:02:21,532 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:03:16,209 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring:W4D5:0.0.1-SNAPSHOT @ C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\pom.xml.
+2023-04-15 17:03:16,545 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:03:16,545 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:03:16,548 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:03:17,646 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/javafaker/javafaker/1.0.2/javafaker-1.0.2-sources.jar
+2023-04-15 17:03:17,733 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/javafaker/javafaker/1.0.2/javafaker-1.0.2-sources.jar
+2023-04-15 17:03:17,736 [Worker-38: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.javafaker:javafaker:1.0.2
+2023-04-15 17:03:17,800 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0-sources.jar
+2023-04-15 17:03:17,877 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0-sources.jar
+2023-04-15 17:03:17,880 [Worker-38: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-lang3:3.12.0
+2023-04-15 17:03:17,950 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.23/snakeyaml-1.23-sources.jar
+2023-04-15 17:03:17,966 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:03:17,976 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:03:17,978 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:03:18,001 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.23/snakeyaml-1.23-sources.jar
+2023-04-15 17:03:18,004 [Worker-38: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.yaml:snakeyaml:1.23android
+2023-04-15 17:03:18,080 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/mifmif/generex/1.0.2/generex-1.0.2-sources.jar
+2023-04-15 17:03:18,113 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/mifmif/generex/1.0.2/generex-1.0.2-sources.jar
+2023-04-15 17:03:18,115 [Worker-38: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.mifmif:generex:1.0.2
+2023-04-15 17:03:18,176 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/dk/brics/automaton/automaton/1.11-8/automaton-1.11-8-sources.jar
+2023-04-15 17:03:18,206 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/dk/brics/automaton/automaton/1.11-8/automaton-1.11-8-sources.jar
+2023-04-15 17:03:18,208 [Worker-38: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for dk.brics.automaton:automaton:1.11-8
+2023-04-15 17:03:19,056 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:03:19,056 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:03:19,057 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:07:18,085 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:07:18,088 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:07:18,090 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:15:04,077 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:15:04,079 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:15:04,081 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:15:43,109 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:15:43,112 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:15:43,113 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:17:15,443 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:17:15,445 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:17:15,447 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:17:35,204 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:17:35,206 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:17:35,208 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:17:38,720 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:17:38,723 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:17:38,725 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:18:28,229 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:18:28,232 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:18:28,233 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:18:46,553 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:18:46,555 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:18:46,557 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:21:12,783 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:21:12,785 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:21:12,787 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:21:25,800 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:21:25,803 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:21:25,804 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:21:43,769 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:21:43,771 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:21:43,773 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:22:45,185 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:22:45,188 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:22:45,190 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:23:00,731 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:23:00,733 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:23:00,735 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:23:01,808 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:23:01,810 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:23:01,812 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:23:28,107 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:23:28,109 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:23:28,111 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:23:37,407 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:23:37,410 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:23:37,412 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:24:48,910 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:24:48,913 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:24:48,914 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:25:55,284 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:25:55,287 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:25:55,288 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:26:19,284 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:26:19,287 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:26:19,288 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:27:19,786 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:27:19,790 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:27:19,792 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:28:54,852 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:28:54,855 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:28:54,857 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:29:20,812 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:29:20,815 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:29:20,816 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:30:00,206 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:30:00,209 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:30:00,210 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:34:35,567 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:34:35,570 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:34:35,571 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:35:42,583 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:35:42,586 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:35:42,587 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:38:01,896 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:38:01,899 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:38:01,900 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:43:16,296 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:43:16,299 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:43:16,300 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:43:46,521 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:43:46,524 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:43:46,526 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:44:27,765 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:44:27,768 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:44:27,769 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:45:06,277 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:45:06,279 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:45:06,281 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:45:07,908 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:45:07,910 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:45:07,912 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:45:15,490 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:45:15,493 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:45:15,495 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:46:17,456 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:46:17,458 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:46:17,460 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:46:30,963 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:46:30,966 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:46:30,967 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:50:13,457 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:50:13,461 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:50:13,463 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:50:25,749 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:50:25,752 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:50:25,754 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:50:37,220 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:50:37,222 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:50:37,223 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:51:08,416 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:51:08,419 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:51:08,420 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:51:41,144 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:51:41,146 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:51:41,148 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:51:56,440 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:51:56,443 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:51:56,444 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:52:25,465 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:52:25,468 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:52:25,469 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:52:38,212 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:52:38,215 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:52:38,216 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:53:17,328 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:53:17,331 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:53:17,332 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:53:38,844 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:53:38,847 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:53:38,848 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:55:38,216 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:55:38,218 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:55:38,220 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:56:52,295 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:56:52,297 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:56:52,299 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:57:53,028 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:57:53,030 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:57:53,032 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:57:57,920 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:57:57,923 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:57:57,925 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:58:11,184 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:58:11,187 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:58:11,188 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:58:27,415 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:58:27,418 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:58:27,419 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 17:59:38,686 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 17:59:38,689 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 17:59:38,690 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 18:00:19,096 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 18:00:19,099 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 18:00:19,101 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 18:00:24,852 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 18:00:24,855 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 18:00:24,856 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 18:00:43,309 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 18:00:43,312 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 18:00:43,313 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 18:00:55,362 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 18:00:55,365 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 18:00:55,366 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 18:01:55,894 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 18:01:55,897 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 18:01:55,898 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 18:02:32,047 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 18:02:32,050 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 18:02:32,051 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 18:02:39,035 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 18:02:39,037 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 18:02:39,039 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 18:02:46,348 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 18:02:46,350 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 18:02:46,352 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 18:04:06,528 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 18:04:06,531 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 18:04:06,533 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 18:33:02,589 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 18:33:02,592 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 18:33:02,593 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 18:33:12,081 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 18:33:12,083 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 18:33:12,085 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 18:35:26,026 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 18:35:26,029 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 18:35:26,030 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 18:36:29,523 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 18:36:29,525 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 18:36:29,527 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 18:36:35,485 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 18:36:35,488 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 18:36:35,502 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 18:39:12,856 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 18:39:12,858 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 18:39:12,859 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 18:39:45,012 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 18:39:45,014 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 18:39:45,016 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 18:43:15,212 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 18:43:15,215 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 18:43:15,216 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 18:43:55,489 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 18:43:55,492 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 18:43:55,494 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 18:44:11,429 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 18:44:11,432 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 18:44:11,433 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 18:45:43,490 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 18:45:43,494 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 18:45:43,495 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 18:48:12,227 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 18:48:12,229 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 18:48:12,231 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 18:51:40,953 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 18:51:40,956 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 18:51:40,957 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 18:54:47,930 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 18:54:47,933 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 18:54:47,935 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 18:55:05,301 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 18:55:05,304 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 18:55:05,305 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 18:57:24,610 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 18:57:24,612 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 18:57:24,613 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 18:59:43,192 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 18:59:43,195 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 18:59:43,196 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 19:01:15,034 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 19:01:15,037 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 19:01:15,038 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 19:02:12,690 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 19:02:12,693 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 19:02:12,694 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 19:03:45,659 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 19:03:45,662 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 19:03:45,663 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 19:11:41,409 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 19:11:41,411 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 19:11:41,413 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 19:15:44,829 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 19:15:44,832 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 19:15:44,833 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 19:23:23,356 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 19:23:23,359 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 19:23:23,361 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 19:24:56,889 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 19:24:56,891 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 19:24:56,892 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 19:25:14,521 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 19:25:14,523 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 19:25:14,525 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 19:27:35,698 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 19:27:35,700 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 19:27:35,702 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 19:28:18,703 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 19:28:18,705 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 19:28:18,707 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 19:29:11,977 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 19:29:11,979 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 19:29:11,981 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 19:30:38,281 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 19:30:38,283 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 19:30:38,285 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 19:45:06,576 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 19:45:06,579 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 19:45:06,581 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 19:45:20,467 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 19:45:20,469 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 19:45:20,471 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 19:45:32,034 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 19:45:32,036 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 19:45:32,038 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 19:46:59,671 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 19:46:59,673 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 19:46:59,675 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 19:49:27,754 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 19:49:27,756 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 19:49:27,758 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 19:58:19,054 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 19:58:19,057 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 19:58:19,058 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 20:00:01,525 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 20:00:01,528 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 20:00:01,530 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 20:00:13,267 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 20:00:13,270 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 20:00:13,271 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 20:01:09,672 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 20:01:09,674 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 20:01:09,676 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 20:01:58,922 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 20:01:58,925 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 20:01:58,927 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 20:02:22,935 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 20:02:22,937 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 20:02:22,939 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 20:02:31,637 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 20:02:31,639 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 20:02:31,641 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 20:04:00,401 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 20:04:00,404 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 20:04:00,406 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 20:08:05,936 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 20:08:05,938 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 20:08:05,939 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 20:08:07,556 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 20:08:07,559 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 20:08:07,560 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 20:11:21,434 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 20:11:21,437 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 20:11:21,439 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 20:20:27,986 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 20:20:27,989 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 20:20:27,990 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 20:21:37,157 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 20:21:37,160 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 20:21:37,161 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 20:22:33,279 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 20:22:33,281 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 20:22:33,283 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 20:24:17,929 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 20:24:17,931 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 20:24:17,933 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 20:25:57,740 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 20:25:57,742 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 20:25:57,744 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 20:27:04,990 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 20:27:04,992 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 20:27:04,994 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 20:28:48,664 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 20:28:48,668 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 20:28:48,669 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 20:30:58,285 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 20:30:58,288 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 20:30:58,289 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 20:31:56,270 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 20:31:56,272 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 20:31:56,274 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 20:39:11,448 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149 [267])
+2023-04-15 20:39:11,450 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Alessandro\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149
+2023-04-15 20:39:11,450 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Alessandro\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\aether-connector-okhttp-0.17.8.jar
+2023-04-15 20:39:11,450 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Alessandro\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-cli-1.4.jar
+2023-04-15 20:39:11,450 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Alessandro\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-io-2.6.jar
+2023-04-15 20:39:11,451 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Alessandro\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-lang3-3.8.1.jar
+2023-04-15 20:39:11,451 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Alessandro\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\guice-4.2.2-no_aop.jar
+2023-04-15 20:39:11,451 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Alessandro\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\jansi-2.4.0.jar
+2023-04-15 20:39:11,451 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Alessandro\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-artifact-3.8.6.jar
+2023-04-15 20:39:11,451 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Alessandro\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-builder-support-3.8.6.jar
+2023-04-15 20:39:11,451 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Alessandro\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-compat-3.8.6.jar
+2023-04-15 20:39:11,451 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Alessandro\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-core-3.8.6.jar
+2023-04-15 20:39:11,451 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Alessandro\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-embedder-3.8.6.jar
+2023-04-15 20:39:11,451 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Alessandro\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-model-3.8.6.jar
+2023-04-15 20:39:11,451 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Alessandro\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-model-builder-3.8.6.jar
+2023-04-15 20:39:11,452 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Alessandro\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-plugin-api-3.8.6.jar
+2023-04-15 20:39:11,452 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Alessandro\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-repository-metadata-3.8.6.jar
+2023-04-15 20:39:11,452 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Alessandro\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-api-1.6.3.jar
+2023-04-15 20:39:11,452 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Alessandro\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-connector-basic-1.6.3.jar
+2023-04-15 20:39:11,452 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Alessandro\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-impl-1.6.3.jar
+2023-04-15 20:39:11,452 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Alessandro\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-provider-3.8.6.jar
+2023-04-15 20:39:11,452 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Alessandro\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-spi-1.6.3.jar
+2023-04-15 20:39:11,452 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Alessandro\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-transport-wagon-1.6.3.jar
+2023-04-15 20:39:11,452 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Alessandro\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-util-1.6.3.jar
+2023-04-15 20:39:11,452 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Alessandro\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-settings-3.8.6.jar
+2023-04-15 20:39:11,452 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Alessandro\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-settings-builder-3.8.6.jar
+2023-04-15 20:39:11,453 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Alessandro\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-shared-utils-3.3.4.jar
+2023-04-15 20:39:11,453 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Alessandro\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\okhttp-3.14.1.jar
+2023-04-15 20:39:11,453 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Alessandro\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\okio-1.17.3.jar
+2023-04-15 20:39:11,453 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Alessandro\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\org.eclipse.sisu.inject-0.3.5.jar
+2023-04-15 20:39:11,453 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Alessandro\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2023-04-15 20:39:11,453 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Alessandro\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-build-api-0.0.7.jar
+2023-04-15 20:39:11,453 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Alessandro\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-cipher-2.0.jar
+2023-04-15 20:39:11,453 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Alessandro\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-classworlds-2.6.0.jar
+2023-04-15 20:39:11,453 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Alessandro\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-component-annotations-2.1.0.jar
+2023-04-15 20:39:11,453 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Alessandro\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-interpolation-1.26.jar
+2023-04-15 20:39:11,454 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Alessandro\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-sec-dispatcher-2.0.jar
+2023-04-15 20:39:11,454 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Alessandro\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-utils-3.3.1.jar
+2023-04-15 20:39:11,454 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Alessandro\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\wagon-file-3.5.1.jar
+2023-04-15 20:39:11,454 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Alessandro\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\wagon-provider-api-3.5.1.jar
+2023-04-15 20:39:11,455 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_30.1.0.v20221112-0806 [8])
+2023-04-15 20:39:11,456 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Alessandro\.p2\pool\plugins\com.google.guava_30.1.0.v20221112-0806.jar
+2023-04-15 20:39:11,456 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [431])
+2023-04-15 20:39:11,457 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Alessandro\.p2\pool\plugins\slf4j.api_1.7.36.jar
+2023-04-15 20:39:11,457 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [18])
+2023-04-15 20:39:11,457 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Alessandro\.p2\pool\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2023-04-15 20:39:11,457 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221112-0806 [16])
+2023-04-15 20:39:11,458 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\Alessandro\.p2\pool\plugins\javax.annotation_1.3.5.v20221112-0806.jar
+2023-04-15 20:39:11,460 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni":
+2023-04-15 20:39:11,460 [Worker-65: Launching Executing clean in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean
+2023-04-15 20:39:13,767 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 20:39:13,768 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 20:39:13,769 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 20:39:25,446 [Worker-78: Launching Executing install in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni":
+2023-04-15 20:39:25,446 [Worker-78: Launching Executing install in C__Users_Alessandro_eclipse-workspace_Epicode_JavaWeek4_GestionePrenotazioni] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2023-04-15 20:39:35,446 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 20:39:35,449 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 20:39:35,450 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 20:43:33,707 [Worker-80: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring:W4D5:0.0.1-SNAPSHOT @ C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\pom.xml.
+2023-04-15 20:43:34,051 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 20:43:34,052 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 20:43:34,054 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 21:51:00,599 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 21:51:00,606 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 21:51:00,608 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 21:51:29,764 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 21:51:29,767 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 21:51:29,768 [Worker-95: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 21:57:21,506 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-15 22:01:30,773 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 22:01:30,786 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 22:01:30,790 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 22:20:07,206 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 22:20:07,209 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 22:20:07,212 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 22:20:25,056 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 22:20:25,059 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 22:20:25,061 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 22:20:29,228 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 22:20:29,231 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 22:20:29,233 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 22:24:08,295 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 22:24:08,298 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 22:24:08,300 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 22:27:19,359 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 22:27:19,363 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 22:27:19,365 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 22:28:57,954 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 22:28:57,958 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 22:28:57,960 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 22:30:52,318 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 22:30:52,321 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 22:30:52,323 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 22:30:58,253 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 22:30:58,256 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 22:30:58,257 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 22:31:26,022 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 22:31:26,025 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 22:31:26,027 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 22:32:50,606 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 22:32:50,609 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 22:32:50,611 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 22:33:32,418 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 22:33:32,421 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 22:33:32,423 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 22:40:09,822 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 22:40:09,824 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 22:40:09,826 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 22:42:50,162 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 22:42:50,165 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 22:42:50,167 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 23:26:30,703 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 23:26:30,706 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 23:26:30,708 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 23:27:00,019 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 23:27:00,022 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 23:27:00,024 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 23:27:55,791 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 23:27:55,794 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 23:27:55,795 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 23:28:14,782 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 23:28:14,785 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 23:28:14,787 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 23:32:45,946 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 23:32:45,948 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 23:32:45,950 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 23:33:44,078 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 23:33:44,080 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 23:33:44,082 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 23:34:03,662 [Worker-8: Launching GestionePrenotazioni - W4D5Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 23:34:03,664 [Worker-8: Launching GestionePrenotazioni - W4D5Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 23:34:03,666 [Worker-8: Launching GestionePrenotazioni - W4D5Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 23:34:39,912 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 23:34:39,915 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 23:34:39,917 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 23:35:50,608 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 23:35:50,613 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 23:35:50,616 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 23:39:49,385 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 23:39:49,388 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 23:39:49,390 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 23:40:20,651 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 23:40:20,654 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 23:40:20,655 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 23:40:29,550 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 23:40:29,552 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 23:40:29,554 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 23:44:04,705 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 23:44:04,708 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 23:44:04,710 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 23:50:37,165 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 23:50:37,167 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 23:50:37,169 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 23:53:41,721 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 23:53:41,724 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 23:53:41,726 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 23:56:20,850 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 23:56:20,853 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 23:56:20,855 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 23:56:42,879 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 23:56:42,882 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 23:56:42,883 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 23:59:03,644 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 23:59:03,646 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 23:59:03,648 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-15 23:59:43,941 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-15 23:59:43,943 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-15 23:59:43,945 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 00:00:07,362 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 00:00:07,365 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 00:00:07,367 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 00:00:32,832 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 00:00:32,835 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 00:00:32,836 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 00:01:26,259 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 00:01:26,262 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 00:01:26,264 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 00:02:16,884 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 00:02:16,887 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 00:02:16,888 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 00:03:00,930 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 00:03:00,932 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 00:03:00,934 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 00:04:28,022 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 00:04:28,025 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 00:04:28,027 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 00:13:29,761 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 00:13:29,764 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 00:13:29,766 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 00:16:06,361 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 00:16:06,363 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 00:16:06,365 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 00:19:19,031 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 00:19:19,034 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 00:19:19,036 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 00:20:07,683 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 00:20:07,687 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 00:20:07,688 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 00:20:09,803 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 00:20:09,807 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 00:20:09,809 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 00:22:43,525 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 00:22:43,528 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 00:22:43,530 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 00:25:22,739 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 00:25:22,741 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 00:25:22,743 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 00:25:35,318 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 00:25:35,323 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 00:25:35,325 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 00:29:17,100 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 00:29:17,102 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 00:29:17,104 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 00:29:58,491 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 00:29:58,494 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 00:29:58,496 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 00:30:37,729 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-16 00:32:46,049 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 00:32:46,061 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 00:32:46,064 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 00:44:37,828 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 00:44:37,831 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 00:44:37,833 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 00:44:50,847 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 00:44:50,851 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 00:44:50,853 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 00:49:32,144 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 00:49:32,147 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 00:49:32,149 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 00:51:22,104 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-16 00:53:12,880 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 00:53:12,890 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 00:53:12,894 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 00:53:21,359 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 00:53:21,362 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 00:53:21,364 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 00:53:29,705 [Worker-8: Launching GestionePrenotazioni - W4D5Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 00:53:29,709 [Worker-8: Launching GestionePrenotazioni - W4D5Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 00:53:29,712 [Worker-8: Launching GestionePrenotazioni - W4D5Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 11:24:52,890 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-16 11:30:36,539 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 11:30:36,548 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 11:30:36,550 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 11:34:35,608 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 11:34:35,612 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 11:34:35,614 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 11:35:24,781 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 11:35:24,784 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 11:35:24,786 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 11:35:54,795 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 11:35:54,798 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 11:35:54,800 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 11:37:49,870 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 11:37:49,874 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 11:37:49,875 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 11:41:17,565 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 11:41:17,568 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 11:41:17,569 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 11:41:29,115 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 11:41:29,118 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 11:41:29,120 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 11:42:05,527 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 11:42:05,530 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 11:42:05,534 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 11:46:22,753 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 11:46:22,756 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 11:46:22,758 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 11:47:19,883 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 11:47:19,886 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 11:47:19,888 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 11:51:20,168 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 11:51:20,170 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 11:51:20,172 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 11:51:39,792 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 11:51:39,795 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 11:51:39,796 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 11:52:14,844 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 11:52:14,847 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 11:52:14,848 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 11:52:33,305 [Worker-42: Launching GestionePrenotazioni - W4D5Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 11:52:33,307 [Worker-42: Launching GestionePrenotazioni - W4D5Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 11:52:33,309 [Worker-42: Launching GestionePrenotazioni - W4D5Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 11:54:34,888 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 11:54:34,891 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 11:54:34,892 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 11:55:59,617 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 11:55:59,619 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 11:55:59,621 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 12:00:26,711 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 12:00:26,714 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 12:00:26,715 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 12:00:30,374 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 12:00:30,379 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 12:00:30,381 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 12:02:36,293 [Worker-45: Launching GestionePrenotazioni - W4D5Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 12:02:36,295 [Worker-45: Launching GestionePrenotazioni - W4D5Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 12:02:36,298 [Worker-45: Launching GestionePrenotazioni - W4D5Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 12:03:08,677 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 12:03:08,680 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 12:03:08,682 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 12:04:07,092 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 12:04:07,095 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 12:04:07,097 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 12:07:13,654 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 12:07:13,658 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 12:07:13,660 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 12:08:08,270 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 12:08:08,273 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 12:08:08,274 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 12:10:28,282 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 12:10:28,285 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 12:10:28,287 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 12:23:56,385 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 12:23:56,389 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 12:23:56,390 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 12:26:17,020 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 12:26:17,023 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 12:26:17,025 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 12:26:42,472 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 12:26:42,474 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 12:26:42,476 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 12:27:22,453 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 12:27:22,456 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 12:27:22,457 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 12:28:44,195 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 12:28:44,198 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 12:28:44,199 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 12:30:47,528 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-16 12:34:48,125 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 12:34:48,133 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 12:34:48,136 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 12:37:26,558 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 12:37:26,561 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 12:37:26,563 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 12:43:08,339 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 12:43:08,342 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 12:43:08,344 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 12:44:01,012 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 12:44:01,015 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 12:44:01,017 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 13:25:00,354 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 13:25:00,358 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 13:25:00,359 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 13:26:44,934 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 13:26:44,938 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 13:26:44,940 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 13:30:00,622 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 13:30:00,625 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 13:30:00,627 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 13:31:51,389 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 13:31:51,392 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 13:31:51,395 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 13:32:39,260 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 13:32:39,269 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 13:32:39,272 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 13:34:59,340 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 13:34:59,357 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 13:34:59,359 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 13:35:54,506 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 13:35:54,509 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 13:35:54,510 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 13:37:54,868 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 13:37:54,871 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 13:37:54,873 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 13:40:54,972 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 13:40:54,975 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 13:40:54,976 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 13:42:11,029 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 13:42:11,032 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 13:42:11,034 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 13:47:56,099 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 13:47:56,102 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 13:47:56,104 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 14:10:50,728 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 14:10:50,731 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 14:10:50,733 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 14:23:38,878 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 14:23:38,881 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 14:23:38,882 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 14:29:37,962 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 14:29:37,965 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 14:29:37,966 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 14:29:46,718 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 14:29:46,720 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 14:29:46,722 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 14:29:59,017 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 14:29:59,020 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 14:29:59,022 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 14:31:39,278 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 14:31:39,281 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 14:31:39,283 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 14:32:25,331 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 14:32:25,335 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 14:32:25,336 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 14:34:24,511 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 14:34:24,513 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 14:34:24,515 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 14:37:25,947 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 14:37:25,950 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 14:37:25,951 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 14:37:44,162 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 14:37:44,166 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 14:37:44,167 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 14:38:22,959 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-16 14:41:02,418 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 14:41:02,438 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 14:41:02,443 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 14:41:22,657 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 14:41:22,661 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 14:41:22,663 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 14:43:10,135 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 14:43:10,138 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 14:43:10,140 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 14:45:25,068 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 14:45:25,071 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 14:45:25,072 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 14:54:08,570 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 14:54:08,574 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 14:54:08,577 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 14:55:18,962 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 14:55:18,967 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 14:55:18,969 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 14:59:53,025 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 14:59:53,028 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 14:59:53,030 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 15:01:22,249 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 15:01:22,252 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 15:01:22,254 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 15:03:03,548 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-16 15:03:52,612 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 15:03:52,631 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 15:03:52,634 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 15:04:11,052 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 15:04:11,055 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 15:04:11,057 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 15:06:16,280 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 15:06:16,284 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 15:06:16,286 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 15:06:43,749 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 15:06:43,753 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 15:06:43,756 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 15:09:48,661 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 15:09:48,664 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 15:09:48,665 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 15:10:45,462 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 15:10:45,465 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 15:10:45,467 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 15:10:52,439 [Worker-30: Launching GestionePrenotazioni - W4D5Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 15:10:52,442 [Worker-30: Launching GestionePrenotazioni - W4D5Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 15:10:52,444 [Worker-30: Launching GestionePrenotazioni - W4D5Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 17:16:36,394 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 17:16:36,407 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 17:16:36,409 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 17:21:12,290 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 17:21:12,302 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 17:21:12,304 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 17:22:42,358 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 17:22:42,370 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 17:22:42,372 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 17:23:34,465 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 17:23:34,476 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 17:23:34,478 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 17:28:22,065 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 17:28:22,077 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 17:28:22,080 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 17:29:10,545 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 17:29:10,549 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 17:29:10,551 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 17:35:27,621 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 17:35:27,633 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 17:35:27,635 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 17:35:34,341 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 17:35:34,351 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 17:35:34,355 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 17:38:38,642 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 17:38:38,654 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 17:38:38,656 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
+2023-04-16 17:40:30,311 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-16 17:40:30,329 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-16 17:40:30,331 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Alessandro\eclipse-workspace\Epicode\JavaWeek4\GestionePrenotazioni\src\test\resources
