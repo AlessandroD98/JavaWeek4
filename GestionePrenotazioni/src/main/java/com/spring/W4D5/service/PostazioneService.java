@@ -36,8 +36,8 @@ public class PostazioneService {
 		return repo.findByTipo(privato);
 	}
 	
-	public List<Postazione> finByCity(String city){
-		return repo.findByCity(city);
+	public List<Postazione> finByCity(String city, Tipo_postazione type){
+		return repo.findByCity(city, type);
 	}
 	
 	public Postazione findPostazioneById(Long id) {

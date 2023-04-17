@@ -123,26 +123,22 @@ public class Prenotazione {
 		} else {
 		Utente ut = ricercaUtente(utenteService);
 		if(ut != null) {
-			List<Postazione> postazioni = ricercaCitta(postazioneService);
-			if(postazioni.size() != 0) {
-				postazioni.forEach(p -> System.out.println(p));
-				List<Postazione> list = selctTypePostazione(postazioneService);
-				if(list.size() != 0) {
-					list.forEach(l -> System.out.println(l));
-					Postazione p = ricercaPostazione(postazioneService);
+			String nomeCItta = ricercaCitta();
+			Tipo_postazione type = selctTypePostazione();
+			List<Postazione> lista = postazioneService.finByCity(nomeCItta, type);
+			if(lista.size() != 0) {
+				lista.forEach(l -> System.out.println(l));
+				Postazione p = ricercaPostazione(postazioneService);
 					if(!p.getStato()) {
 						p.setStato(true);
 						postazioneService.insertPostazione(p);
 						prenotazioneService.createCustomPrenotazione(ut,p);
 					} else {
 						System.out.println("La postazione risulta gia occupata");
-					}	
-				} else {
-					System.out.println("Non ci sono postazioni per il tipo ricercato!");
-				}
-			} else {
-				System.out.println("Non ci sono postazioni per la città cercata!");
-			}
+					}
+		} else {
+			System.out.println("Non ci sono postazioni che rispettano i criteri di ricerca");
+		}
 		} else {
 			System.out.println("Utente non trovato");
 			}		
@@ -162,39 +158,62 @@ public class Prenotazione {
 		return u;
 	}
 	
-	public static List<Postazione> ricercaCitta(PostazioneService postazioneService) {
+	public static String ricercaCitta() {
 		System.out.println(">> Inserisci la città per visualizzare le postazioni libere");
 		String nomeCitta = RunnnerApp.s.nextLine().toUpperCase();
-		List<Postazione> postazioni = postazioneService.finByCity(nomeCitta);
-		return postazioni;
+		return nomeCitta;
 	}
 	
-	public static List<Postazione> selctTypePostazione(PostazioneService postazioneService) {
-		System.out.println(">> Selziona la tipologia di postazione che stai cercando: "
-				+ "\n 1 PRIVATE - 2 OPENSAPCE - 3 SALA RIUNIONI");
-		String option = RunnnerApp.s.nextLine();
-		List<Postazione> list = null;
-		try {
-			Integer num = Integer.parseInt(option);
-			switch(num) {
-				case 1:
-					list =postazioneService.findByStatus(Tipo_postazione.PRIVATO);
-					break;
-				case 2:
-					list =postazioneService.findByStatus(Tipo_postazione.OPENSPACE);
-					break;
-				case 3:
-					list = postazioneService.findByStatus(Tipo_postazione.SALA_RIUNIONI);
-					break;
-			}
-		} catch (Exception e) {
-			System.out.println("Il valore inserito non è un numero!");
-		}
-		return list;
+	
+	/*
+	 * public static List<Postazione> ricercaCitta(PostazioneService
+	 * postazioneService) { System.out.
+	 * println(">> Inserisci la città per visualizzare le postazioni libere");
+	 * String nomeCitta = RunnnerApp.s.nextLine().toUpperCase(); List<Postazione>
+	 * postazioni = postazioneService.finByCity(nomeCitta); return postazioni; }
+	 */
+	
+	
+	public static Tipo_postazione selctTypePostazione() {
+	    System.out.println(">> Seleziona la tipologia di postazione che stai cercando: "
+	            + "\n 1 PRIVATE - 2 OPENSAPCE - 3 SALA RIUNIONI");
+	    String option = RunnnerApp.s.nextLine();
+	    Tipo_postazione selectedType = null;
+	    try {
+	        Integer num = Integer.parseInt(option);
+	        switch(num) {
+	            case 1:
+	                selectedType = Tipo_postazione.PRIVATO;
+	                break;
+	            case 2:
+	                selectedType = Tipo_postazione.OPENSPACE;
+	                break;
+	            case 3:
+	                selectedType = Tipo_postazione.SALA_RIUNIONI;
+	                break;
+	        }
+	    } catch (Exception e) {
+	        System.out.println("Il valore inserito non è un numero!");
+	    }
+	    return selectedType;
 	}
+	
+	/*
+	 * public static List<Postazione> selctTypePostazione(PostazioneService
+	 * postazioneService) { System.out.
+	 * println(">> Selziona la tipologia di postazione che stai cercando: " +
+	 * "\n 1 PRIVATE - 2 OPENSAPCE - 3 SALA RIUNIONI"); String option =
+	 * RunnnerApp.s.nextLine(); List<Postazione> list = null; try { Integer num =
+	 * Integer.parseInt(option); switch(num) { case 1: list
+	 * =postazioneService.findByStatus(Tipo_postazione.PRIVATO); break; case 2: list
+	 * =postazioneService.findByStatus(Tipo_postazione.OPENSPACE); break; case 3:
+	 * list = postazioneService.findByStatus(Tipo_postazione.SALA_RIUNIONI); break;
+	 * } } catch (Exception e) {
+	 * System.out.println("Il valore inserito non è un numero!"); } return list; }
+	 */
 	
 	public static Postazione ricercaPostazione(PostazioneService postazioneService) {
-		System.out.println(">> Inserisci l'ID della Postazione per confermanre la prenotazione");
+		System.out.println(">> Inserisci l'ID della Postazione per confermare la prenotazione");
 		String scelta = RunnnerApp.s.nextLine();
 		Postazione p = null;
 		try {
