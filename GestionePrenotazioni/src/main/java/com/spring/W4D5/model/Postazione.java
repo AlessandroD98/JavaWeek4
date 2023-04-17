@@ -95,7 +95,7 @@ public class Postazione {
 	
 	  public static  void creaPostazione(PostazioneService postazioneService,EdificioService edificioService) {
 		  if(edificioService.findAllEdifici().size() != 0) { 
-			  //edificioService.findAllEdifici().forEach(e -> System.out.println(e));
+			  edificioService.findAllEdifici().forEach(e -> System.out.println("Nome Edificio: " + e.getNome() + ", ID Edificio: " + e.getEdificio_id() + ", Città: " + e.getCittà()));
 		  try { 
 			  System.out.println(">> Inserisci l'ID dell'edificio dove vuoi creare la postazione");
 			  String scelta = RunnnerApp.s.nextLine();
@@ -184,11 +184,11 @@ public class Postazione {
 	  public String toString() {
 	      if (this.edificio == null) {
 	          return "Postazione [postazione_id=" + this.postazione_id + ", descrizione=" + this.descrizione +
-	              ", tipo=" + this.tipo + ", numeroMaxOccupanti=" + this.numeroMaxOccupanti + ", stato=" + this.stato +
+	              ", tipo=" + this.tipo + ", numeroMaxOccupanti=" + this.numeroMaxOccupanti + ", stato=" + (this.stato ? "Occupata" : "Libera") +
 	              "]";
 	      }
 	      return "Postazione [postazione_id=" + this.postazione_id + ", descrizione=" + this.descrizione +
-	          ", tipo=" + this.tipo + ", numeroMaxOccupanti=" + this.numeroMaxOccupanti + ", stato=" + this.stato +
+	          ", tipo=" + this.tipo + ", numeroMaxOccupanti=" + this.numeroMaxOccupanti + ", stato=" + (this.stato ? "Occupata" : "Libera") +
 	          ", edificio=" + this.edificio.getNome() + "]";
 	  }
 }

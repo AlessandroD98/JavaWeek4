@@ -15,4 +15,5 @@ public interface PostazioneDAORepository extends CrudRepository<Postazione, Long
 	@Query(value="SELECT p FROM Postazione p WHERE p.tipo = :tipo") public List<Postazione> findByTipo(Tipo_postazione tipo);
 	
 	@Query(value="SELECT p FROM Postazione p WHERE p.edificio.città = :city AND p.stato = false AND p.tipo = :type") public List<Postazione> findByCity(String city, Tipo_postazione type);
+	
 }

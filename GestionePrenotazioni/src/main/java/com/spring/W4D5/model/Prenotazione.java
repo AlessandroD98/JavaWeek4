@@ -61,19 +61,15 @@ public class Prenotazione {
 		this.datafineprenotazione = newDate;
 	}
 	
-	public void setDataPrenotazione() {
-	System.out.println(" >>Inserisci la data della prenotazione (dd-mm-yyyy)");
-	String s = RunnnerApp.s.nextLine();
-	while(true) {
-		try {
-			DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd-MM-yyyy");
-			LocalDate data = LocalDate.parse(s, formatter);
-			this.dataprenotazione = data;
-			break;
-		} catch (Exception e) {
-			System.out.println("Inserisci una data valida");
-		}
-	}
+	public void setDataPrenotazione(LocalDate date) {
+		this.dataprenotazione = date;
+		/*
+		 * System.out.println(" >>Inserisci la data della prenotazione (dd-mm-yyyy)");
+		 * String s = RunnnerApp.s.nextLine(); while(true) { try { DateTimeFormatter
+		 * formatter = DateTimeFormatter.ofPattern("dd-MM-yyyy"); LocalDate data =
+		 * LocalDate.parse(s, formatter); this.dataprenotazione = data; break; } catch
+		 * (Exception e) { System.out.println("Inserisci una data valida"); } }
+		 */
 	}
 	
 	
@@ -129,15 +125,20 @@ public class Prenotazione {
 			if(lista.size() != 0) {
 				lista.forEach(l -> System.out.println(l));
 				Postazione p = ricercaPostazione(postazioneService);
+				LocalDate data = checkDate();
+				if(prenotazioneService.findPrenotazioniSameData(ut.getUtente_id(), data).size() == 0) {
 					if(!p.getStato()) {
 						p.setStato(true);
 						postazioneService.insertPostazione(p);
-						prenotazioneService.createCustomPrenotazione(ut,p);
+						prenotazioneService.createCustomPrenotazione(ut,p,data);
 					} else {
-						System.out.println("La postazione risulta gia occupata");
+						System.out.println("La postazione risulta già occupata");
 					}
+			} else {
+				System.out.println("Hai già delle prenotazioni nello stesso giorno!");
+			}
 		} else {
-			System.out.println("Non ci sono postazioni che rispettano i criteri di ricerca");
+			System.out.println("Non ci sono postazioni libere che rispettano i criteri di ricerca");
 		}
 		} else {
 			System.out.println("Utente non trovato");
@@ -239,6 +240,24 @@ public class Prenotazione {
 			System.out.println("Non ci sono ancora prenotazioni!");
 		}
 	}
+	
+	
+public static LocalDate checkDate() {
+	System.out.println(" >>Inserisci la data della prenotazione (dd-mm-yyyy)");
+	String s = RunnnerApp.s.nextLine();
+	LocalDate okDate;
+	while(true) {
+		try {
+			DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd-MM-yyyy");
+			LocalDate data = LocalDate.parse(s, formatter);
+			okDate = data;
+			break;
+		} catch (Exception e) {
+			System.out.println("Inserisci una data valida. Inserisci una data nel formato dd-mm-yyyy!");
+		}
+	}
+	return okDate;
+}
 	
 	@Override
 	public String toString() {

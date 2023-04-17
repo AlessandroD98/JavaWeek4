@@ -17,8 +17,6 @@ public class PrenotazioneConfiguration {
 	@Scope("prototype")
 	public Prenotazione customPrenotazione() {
 		Prenotazione p = new Prenotazione();
-		p.setDataPrenotazione();
-		p.setDataFinePrenotazione(p.getDataprenotazione());
 		return p;
 		
 	}
