@@ -1,6 +1,0 @@
-package Articolo;
-
-public class Drinks extends ArticoloMenu {
-
-	private Integer calories;
-}

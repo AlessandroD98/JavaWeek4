@@ -1,5 +1,0 @@
-package Decorator;
-
-public class ExtraAddition extends Consumation {
-
-}

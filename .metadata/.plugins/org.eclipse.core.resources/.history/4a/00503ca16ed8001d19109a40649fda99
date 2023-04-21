@@ -1,8 +1,0 @@
-package Articolo;
-
-public abstract class ArticoloMenu {
-
-	private double price;
-	private String name;
-	
-}
